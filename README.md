@@ -12,7 +12,7 @@ This is a simple weather forecast application built using HTML, CSS, and JavaScr
 
  📸 Demo
 
-![App Screenshot](./Screenshot%20(3).png)
+![Screenshot (3)](https://github.com/user-attachments/assets/609c151c-4c5f-4831-b158-8c4c8588c97c)
 
 ## 🚀 How to Run the Project
 
